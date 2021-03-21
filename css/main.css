@@ -1,0 +1,109 @@
+body{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.body-content{
+    background-color: white;
+    
+}
+
+.page-header{
+   padding-left: 100px;
+   background-color: #333333;
+}
+
+.page-header__img{
+    
+    width: 75px;
+    height: 75px;
+    padding: 10px;
+}
+
+.page-header__text{
+    align-content: center;
+    color: #b3a191;
+}
+
+nav{
+    padding: 2px;
+    background-color: #232323;
+
+}
+
+.nav__link-container{
+    float: right;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.nav__link{
+    margin-left: 4px;
+    margin-right: 4px;
+    color: #fa9213;
+    text-decoration: double;
+    font-size: 0.8rem;
+}
+
+.nav__link:hover{
+    color: #b3a191;
+    
+}
+
+.img{
+    height: 60vh;
+    width: 100%;
+    background-position: center top;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+.section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.section__header{
+    text-align: center;
+    margin-bottom: 25px;
+    color: #333333;
+}
+
+#about_us{
+    background-color: #bbf1fa;
+}
+
+#mission{
+    background-color: #f4f5db;
+}
+
+#vision{
+    background-color: #94ebcd;
+}
+
+.section__text{
+    color: #232323;
+    font-size: 3vh;
+}
+
+.section__ul{
+    width: fit-content;
+    background-color: #f4f5db;
+}
+
+.section__ul__li{
+    font-size: 2.5vh;
+    color: #333333;
+    
+}
+
+.col-6{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+
+
